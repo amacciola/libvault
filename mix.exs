@@ -69,7 +69,7 @@ defmodule Vault.MixProject do
   defp package do
     [
       files: ["lib", "mix.exs", "README.md", "LICENSE.md"],
-      maintainers: ["Cogility"],
+      maintainers: ["Matthew Oden Potter"],
       licenses: ["MIT"],
       links: %{GitHub: @source_url}
     ]
